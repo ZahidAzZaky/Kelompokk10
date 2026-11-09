@@ -52,7 +52,7 @@ Sistem dapat menampilkan rekap data penjualan berdasarkan transaksi yang telah d
 - Pengelolaan data barang dan stok.
 - Pencatatan transaksi penjualan.
 - Pembuatan laporan penjualan.
-- Dashboard admin dan statistik penjualan.
+- Dashboard Admin & Statistik penjualan.
 
 ### Out of Scope
 
