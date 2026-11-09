@@ -172,7 +172,7 @@ $database = "warehouse_umkm";
 
 ### 6. Menjalankan Website
 
-Buka browser dan akses:
+Buka di Browser dan akses:
 
 ```text
 http://localhost/warehouse-umkm/
